@@ -16,5 +16,6 @@ let mod = num3 % num4;
 console.log("Modulus:", mod); // Output: 4
 
 // Task 4: Max
+
 let max = Math.max(10, 20, 15); // Finds the highest number in the set
 console.log("Max Number:", max); // Output: 20
